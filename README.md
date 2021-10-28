@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ertamajo400
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<! DOCTYPE html>
+<html lang="es">
 
-<!---
-ertamajo400/ertamajo400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initialscale=1.0">
+
+    <link rel="stylesheet" href="ejemploGridZonasHTML.css">
+
+    <title>Ejemplo Grid distribución de zonas | Mi sitio web</title>
+</head>
+
+<body>
+    <main>
+        <header>header</header>
+        <nav>nav</nav>
+        <section>section</section>
+        <aside>aside</aside>
+        <footer>footer</footer>
+    </main>
+</body>
+
+
+
+
+
+</html>
